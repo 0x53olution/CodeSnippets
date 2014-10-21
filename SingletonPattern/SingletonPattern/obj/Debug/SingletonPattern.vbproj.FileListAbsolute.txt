@@ -1,0 +1,18 @@
+\\nv02538.bmwgroup.net\q356046\visual studio 2013\Projects\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+\\nv02538.bmwgroup.net\q356046\visual studio 2013\Projects\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.exe
+\\nv02538.bmwgroup.net\q356046\visual studio 2013\Projects\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.pdb
+\\nv02538.bmwgroup.net\q356046\visual studio 2013\Projects\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.xml
+\\nv02538.bmwgroup.net\q356046\visual studio 2013\Projects\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.frmMain.resources
+\\nv02538.bmwgroup.net\q356046\visual studio 2013\Projects\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.Resources.resources
+\\nv02538.bmwgroup.net\q356046\visual studio 2013\Projects\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.vbproj.GenerateResource.Cache
+\\nv02538.bmwgroup.net\q356046\visual studio 2013\Projects\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.exe
+\\nv02538.bmwgroup.net\q356046\visual studio 2013\Projects\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.xml
+\\nv02538.bmwgroup.net\q356046\visual studio 2013\Projects\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.pdb
+\\nv02538.bmwgroup.net\Q356046\Visual Studio 2013\Projects1\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+\\nv02538.bmwgroup.net\Q356046\Visual Studio 2013\Projects1\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.exe
+\\nv02538.bmwgroup.net\Q356046\Visual Studio 2013\Projects1\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.xml
+\\nv02538.bmwgroup.net\Q356046\Visual Studio 2013\Projects1\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.pdb
+C:\Users\q356046\Source\0x53olution\Repos\CodeSnippets\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+C:\Users\q356046\Source\0x53olution\Repos\CodeSnippets\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.exe
+C:\Users\q356046\Source\0x53olution\Repos\CodeSnippets\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.xml
+C:\Users\q356046\Source\0x53olution\Repos\CodeSnippets\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.pdb

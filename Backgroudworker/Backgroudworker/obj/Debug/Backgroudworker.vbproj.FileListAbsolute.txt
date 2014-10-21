@@ -1,0 +1,20 @@
+\\nv02538.bmwgroup.net\q345356\visual studio 2013\Projects\Backgroudworker\Backgroudworker\bin\Debug\Backgroudworker.exe.config
+\\nv02538.bmwgroup.net\q345356\visual studio 2013\Projects\Backgroudworker\Backgroudworker\bin\Debug\Backgroudworker.exe
+\\nv02538.bmwgroup.net\q345356\visual studio 2013\Projects\Backgroudworker\Backgroudworker\bin\Debug\Backgroudworker.pdb
+\\nv02538.bmwgroup.net\q345356\visual studio 2013\Projects\Backgroudworker\Backgroudworker\bin\Debug\Backgroudworker.xml
+\\nv02538.bmwgroup.net\q345356\visual studio 2013\Projects\Backgroudworker\Backgroudworker\obj\Debug\Backgroudworker.Resources.resources
+\\nv02538.bmwgroup.net\q345356\visual studio 2013\Projects\Backgroudworker\Backgroudworker\obj\Debug\Backgroudworker.vbproj.GenerateResource.Cache
+\\nv02538.bmwgroup.net\q345356\visual studio 2013\Projects\Backgroudworker\Backgroudworker\obj\Debug\Backgroudworker.exe
+\\nv02538.bmwgroup.net\q345356\visual studio 2013\Projects\Backgroudworker\Backgroudworker\obj\Debug\Backgroudworker.xml
+\\nv02538.bmwgroup.net\q345356\visual studio 2013\Projects\Backgroudworker\Backgroudworker\obj\Debug\Backgroudworker.pdb
+\\nv02538.bmwgroup.net\q345356\visual studio 2013\Projects\Backgroudworker\Backgroudworker\obj\Debug\Backgroudworker.Form_Main.resources
+C:\Users\q356046\Source\0x53olution\Repos\CodeSnippets\Backgroudworker\Backgroudworker\bin\Debug\Backgroudworker.exe.config
+C:\Users\q356046\Source\0x53olution\Repos\CodeSnippets\Backgroudworker\Backgroudworker\obj\Debug\Backgroudworker.exe
+C:\Users\q356046\Source\0x53olution\Repos\CodeSnippets\Backgroudworker\Backgroudworker\obj\Debug\Backgroudworker.xml
+C:\Users\q356046\Source\0x53olution\Repos\CodeSnippets\Backgroudworker\Backgroudworker\obj\Debug\Backgroudworker.pdb
+C:\Users\q356046\Source\0x53olution\Repos\CodeSnippets\Backgroudworker\Backgroudworker\bin\Debug\Backgroudworker.exe
+C:\Users\q356046\Source\0x53olution\Repos\CodeSnippets\Backgroudworker\Backgroudworker\bin\Debug\Backgroudworker.pdb
+C:\Users\q356046\Source\0x53olution\Repos\CodeSnippets\Backgroudworker\Backgroudworker\bin\Debug\Backgroudworker.xml
+C:\Users\q356046\Source\0x53olution\Repos\CodeSnippets\Backgroudworker\Backgroudworker\obj\Debug\Backgroudworker.frmMain.resources
+C:\Users\q356046\Source\0x53olution\Repos\CodeSnippets\Backgroudworker\Backgroudworker\obj\Debug\Backgroudworker.Resources.resources
+C:\Users\q356046\Source\0x53olution\Repos\CodeSnippets\Backgroudworker\Backgroudworker\obj\Debug\Backgroudworker.vbproj.GenerateResource.Cache
