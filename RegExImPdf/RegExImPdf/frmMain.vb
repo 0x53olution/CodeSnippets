@@ -7,7 +7,7 @@ Public Class frmMain
         'PDF Dokumenetenpfad im Programmverzeichnis
         Dim pdfDocumentPath As String = IO.Path.GetFullPath(Application.StartupPath) & "\Testdokument.pdf"
 
-        'Per PDFBox das PDF Dokument einlesen
+        'Mit PDFBox das PDF Dokument einlesen
         Dim ReadPdf As New PdfBoxParser
         Dim pdfString = ReadPdf.ParseMyPdf(pdfDocumentPath)
 
