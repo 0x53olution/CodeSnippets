@@ -7,13 +7,16 @@ Public Class Parser
 
     Public Function ParseMyString(ByVal input As String) As String()
 
-        Dim ausgabe(1) As String
+        'Dim ausgabe(1) As String
         'Das Suchpattern wurde vor der impelemntierung mit RegEx-Lab getestet
         Dim filterPattern As String = "#{2}K((\d*):(\S*))#VF:(\S*)#HF:(\S*)#{2}"
 
         Dim collectionOfMatches As MatchCollection
         'In der collectionOfMatches werden alle gefunden Matches gespeichert.
         collectionOfMatches = Regex.Matches(input, filterPattern, RegexOptions.IgnoreCase)
+
+        'Ausgabearray passend dimensionieren
+        Dim ausgabe(collectionOfMatches.Count - 1) As String
 
         Dim i As Integer = 0
         For Each Match In collectionOfMatches
