@@ -3,7 +3,7 @@ Option Explicit On
 
 Imports System.Text.RegularExpressions
 
-Public Class Parser
+Public Class StringParser
 
     Public Function ParseMyString(ByVal input As String) As String()
 

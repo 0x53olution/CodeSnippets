@@ -107,8 +107,8 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="Parser.vb" />
-    <Compile Include="PdfBox.vb" />
+    <Compile Include="StringParser.vb" />
+    <Compile Include="PdfBoxParser.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="frmMain.resx">

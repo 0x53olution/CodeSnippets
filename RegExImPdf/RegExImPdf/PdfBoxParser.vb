@@ -4,7 +4,7 @@ Option Explicit On
 Imports org.pdfbox.pdmodel
 Imports org.pdfbox.util
 
-Public Class PdfBox
+Public Class PdfBoxParser
 
     'Das ist alles was gebraucht wird um mit den PDFBox dlls ein Doukment auszulesen
     Public Function ParseMyPdf(ByVal pdfPath As String) As String

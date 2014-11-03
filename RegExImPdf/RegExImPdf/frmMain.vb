@@ -8,11 +8,11 @@ Public Class frmMain
         Dim pdfDocumentPath As String = IO.Path.GetFullPath(Application.StartupPath) & "\Testdokument.pdf"
 
         'Per PDFBox das PDF Dokument einlesen
-        Dim ReadPdf As New PdfBox
+        Dim ReadPdf As New PdfBoxParser
         Dim pdfString = ReadPdf.ParseMyPdf(pdfDocumentPath)
 
         'String aus PDF Parsen
-        Dim MyParser As New Parser
+        Dim MyParser As New StringParser
         Dim ausgabe = MyParser.ParseMyString(pdfString)
 
         'Ausgabe der gelesenen Strings
