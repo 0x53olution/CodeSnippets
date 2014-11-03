@@ -14,6 +14,7 @@ Public Class PdfBox
             Dim pdfStripper As New PDFTextStripper()
             Return pdfStripper.getText(document)
         Finally
+            'Nicht vergessen das Dokument zu schliessen
             If document IsNot Nothing Then
                 document.close()
             End If
