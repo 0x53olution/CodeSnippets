@@ -48,19 +48,19 @@
   <ItemGroup>
     <Reference Include="FontBox-0.1.0-dev, Version=0.0.0.0, Culture=neutral">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\FontBox-0.1.0-dev.dll</HintPath>
+      <HintPath>PDFBox\FontBox-0.1.0-dev.dll</HintPath>
     </Reference>
     <Reference Include="IKVM.GNU.Classpath, Version=0.30.0.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\IKVM.GNU.Classpath.dll</HintPath>
+      <HintPath>PDFBox\IKVM.GNU.Classpath.dll</HintPath>
     </Reference>
     <Reference Include="IKVM.Runtime, Version=0.30.0.0, Culture=neutral, PublicKeyToken=13235d27fcbfff58">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\IKVM.Runtime.dll</HintPath>
+      <HintPath>PDFBox\IKVM.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="PDFBox-0.7.3, Version=0.0.0.0, Culture=neutral">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\PDFBox-0.7.3.dll</HintPath>
+      <HintPath>PDFBox\PDFBox-0.7.3.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -132,6 +132,12 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="PDFBox\IKVM.GNU.Classpath.dll" />
+    <Content Include="PDFBox\IKVM.Runtime.dll" />
+    <Content Include="PDFBox\PDFBox-0.7.3.dll" />
+    <Content Include="PDFBox\FontBox-0.1.0-dev.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
