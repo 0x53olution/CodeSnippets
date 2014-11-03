@@ -4,7 +4,7 @@ Option Strict On
 Public Class frmMain
 
     Private Sub frmMain_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        'PDF Dokumenetenpfad
+        'PDF Dokumenetenpfad im Programmverzeichnis
         Dim pdfDocumentPath As String = IO.Path.GetFullPath(Application.StartupPath) & "\Testdokument.pdf"
 
         'Per PDFBox das PDF Dokument einlesen
