@@ -10,9 +10,9 @@ Imports System.Runtime.InteropServices
 
 <Assembly: AssemblyTitle("PowerManagement")> 
 <Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("BMW Group")> 
+<Assembly: AssemblyCompany("")> 
 <Assembly: AssemblyProduct("PowerManagement")> 
-<Assembly: AssemblyCopyright("Copyright © BMW Group 2015")> 
+<Assembly: AssemblyCopyright("")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
